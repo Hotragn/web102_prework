@@ -1,8 +1,8 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - * Sea Monster Crowdfunding*
 
-Submitted by: **Your Name Here**
+Submitted by: **Hotragn Pettugani**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+** Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **20** hours spent in total
 
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/gallery/webprework-EoC2r68' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Hotragn/web102_prework/blob/main/recording-prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
